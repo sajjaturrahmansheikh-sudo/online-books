@@ -6,7 +6,7 @@ import NavLink from './NavLink';
 
 const Navbar = () => {
     return (
-        <div className='bg-gray-100 py-5'>
+        <div className='bg-blue-50 py-5'>
             <div className='container mx-auto'>
                 <div className='flex justify-between items-center'>
                     <div className='flex justify-center items-center gap-2'>
