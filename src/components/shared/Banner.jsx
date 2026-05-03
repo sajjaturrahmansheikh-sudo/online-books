@@ -10,7 +10,7 @@ const Banner = () => {
         <div className='bg-gray-50'>
             <div className='container mx-auto mt-10'>
 
-                <div className='flex justify-between items-center'>
+                <div className='md:flex justify-between items-center'>
                     <div className='space-y-4'>
                         <h2 className='text-5xl font-bold'>Find Your Next Read</h2>
 
