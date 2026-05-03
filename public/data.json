@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "description": "A psychological thriller about a woman who shoots her husband and then stops speaking.",
+        "category": "Story",
+        "available_quantity": 5,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/The_Silent_Patient_early_2019_UK_edition.png/250px-The_Silent_Patient_early_2019_UK_edition.png"
+    },
+    {
+        "id": 2,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "description": "A guide to building good habits and breaking bad ones using small daily improvements.",
+        "category": "Science",
+        "available_quantity": 6,
+        "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "description": "A philosophical story about a shepherd’s journey to find his personal legend.",
+        "category": "Story",
+        "available_quantity": 4,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TheAlchemist.jpg/250px-TheAlchemist.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "description": "A handbook of agile software craftsmanship and writing clean, maintainable code.",
+        "category": "Tech",
+        "available_quantity": 3,
+        "image_url": "https://i.ibb.co/3pPYd14/clean-code.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert T. Kiyosaki",
+        "description": "A personal finance book that contrasts two approaches to money and investing.",
+        "category": "Science",
+        "available_quantity": 7,
+        "image_url": "https://i.ibb.co/0Jmshvb/rich-dad.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "description": "Focuses on the importance of deep, focused work in a distracted world.",
+        "category": "Tech",
+        "available_quantity": 5,
+        "image_url": "https://m.media-amazon.com/images/I/71pqZChaJkL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "description": "Explores the history and impact of Homo sapiens on the world.",
+        "category": "Science",
+        "available_quantity": 6,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sapiens-_A_Brief_History_of_Humankind.png/250px-Sapiens-_A_Brief_History_of_Humankind.png"
+    },
+    {
+        "id": 8,
+        "title": "Think Like a Monk",
+        "author": "Jay Shetty",
+        "description": "Teaches how to apply monk-like thinking to everyday life.",
+        "category": "Science",
+        "available_quantity": 4,
+        "image_url": "https://thereadingcafebd.com/wp-content/uploads/2024/09/think-like-a-monk-readingcafebd.jpg"
+    },
+    {
+        "id": 9,
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "description": "A classic book for developers about practical programming techniques.",
+        "category": "Tech",
+        "available_quantity": 3,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/The_pragmatic_programmer.jpg/250px-The_pragmatic_programmer.jpg"
+    },
+    {
+        "id": 10,
+        "title": "1984",
+        "author": "George Orwell",
+        "description": "A dystopian novel exploring surveillance and authoritarianism.",
+        "category": "Story",
+        "available_quantity": 5,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/1984_first_edition_cover.jpg"
+    },
+    {
+        "id": 11,
+        "title": "A Brief History of Time",
+        "author": "Stephen Hawking",
+        "description": "An overview of cosmology, black holes, and the nature of the universe.",
+        "category": "Science",
+        "available_quantity": 2,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/BriefHistoryTime.jpg/250px-BriefHistoryTime.jpg"
+    },
+    {
+        "id": 12,
+        "title": "You Don't Know JS",
+        "author": "Kyle Simpson",
+        "description": "A deep dive into JavaScript fundamentals and advanced concepts.",
+        "category": "Tech",
+        "available_quantity": 4,
+        "image_url": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1457542606i/25136217.jpg"
+    }
+]
