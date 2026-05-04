@@ -21,7 +21,8 @@ const Feature = async () => {
 
             <div className='grid grid-cols-1 justify-center md:grid-cols-4 gap-6 mt-4'>
                 {
-                    featured.map(feature => <FeatureCard key={feature.id} feature={feature}/>)}
+                    featured.map(feature => <FeatureCard key={feature.id} feature={feature} />)
+                }
 
             </div>
 
