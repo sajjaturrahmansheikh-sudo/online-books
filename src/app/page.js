@@ -1,7 +1,7 @@
 import Banner from "@/components/shared/Banner";
+import Feature from "@/components/shared/Feature";
 import { Button } from "@heroui/react";
 import Marquee from "react-fast-marquee";
-import { FaFire } from "react-icons/fa";
 
 
 
@@ -21,6 +21,8 @@ export default function Home() {
         </Marquee>
       </div>
 
+
+      <Feature/>
 
 
 
