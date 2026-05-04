@@ -18,7 +18,7 @@ const FeatureCard = ({ feature }) => {
                 <p className='font-medium text-gray-400'>{feature.author}</p>
             </div>
             <div>
-                <Button variant='outline' className="w-full font-medium rounded-md text-[#4F46E5] border-[#4F46E5]"><Link href={"/all-books"}>View Details</Link></Button>
+                <Button variant='outline' className="w-full font-medium rounded-md text-[#4F46E5] border-[#4F46E5]"><Link href={`/all-books/${feature.id}`}>View Details</Link></Button>
             </div>
         </Card>
 
