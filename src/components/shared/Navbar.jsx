@@ -20,8 +20,9 @@ const Navbar = () => {
                             <li><NavLink href={"/my-profile"}>My Profile</NavLink></li>
                         </ul>
                     </div>
-                    <div className='text-center'>
-                        <Button className="bg-[#4F46E5] text-white">LogIn</Button>
+                    <div className='text-center flex gap-3'>
+                        <Button className="bg-[#4F46E5] text-white"><Link href={"/signup"}>SignUp</Link></Button>
+                        <Button className="bg-[#4F46E5] text-white"><Link href={"/signin"}>SignIn</Link></Button>
                     </div>
                 </div>
 
